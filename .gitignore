@@ -1,0 +1,27 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Bibliography
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# Build artifacts
+*.pdf
+*.xdv
+*.dvi
+*.ps
+
+# Editors / OS
+*.swp
+*.tmp
+.DS_Store
